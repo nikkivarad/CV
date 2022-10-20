@@ -6,7 +6,7 @@
 
 </div>
 
-## <a name="about_me">About me (in a nutshell) 😄</a>
+## <a name="about_me">About me (in a nutshell) 👨🏾</a>
 
 A proactive, dynamic, and creative Full Stack Software Developer by day. An arm-wrestling, chess-playing aficionado by night.
 
@@ -23,7 +23,7 @@ My ideal company shares my goal of moving the world forward and creating real, t
 - Heroku, Netlify
 - Git, GitHub (including Pages and Actions), GitLab, Firebase
 
-## <a name="projects">What I've been working on (Projects) 👨‍💻</a>
+## <a name="projects">What I've been working on (Projects) 👨🏾‍💻 </a>
 
 Now:
 
@@ -43,7 +43,7 @@ In future:
 
 For more, please see my [GitHub repo list](https://github.com/nikkivarad?tab=repositories).
 
-## <a name="skills">What I bring to the table (Skills) 👏</a>
+## <a name="skills">What I bring to the table (Skills) 🤹 </a>
 
 #### Excellent communicator, presenter, and mentor ####
 - Trait1
@@ -84,7 +84,7 @@ Full-time software development course focusing on:
 #### [St. Olave's Grammar School](https://www.saintolaves.net/) (2004 to 2011)
 - 4 A-levels: 2A*s, 2As (Mathematics, Further Mathematics, Economics and Biology) +the EPQ
 
-## <a name="experience">Where I've been contributing (Experience) 👨‍💼</a>
+## <a name="experience">Where I've been contributing (Experience) 💼 </a>
 
 **[LifeArc](https://www.lifearc.org/)** (October 2020 to June 2022)    
 *Investment Manager*  
