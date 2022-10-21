@@ -6,7 +6,7 @@
 
 </div>
 
-##👨🏾 <a name="about_me">About me (in a nutshell)🏾</a>
+## <a name="about_me">About me (in a nutshell) 👨🏾</a>
 
 A proactive, dynamic, and creative Full Stack Software Developer by day. An arm-wrestling, chess-playing aficionado by night.
 
@@ -14,7 +14,7 @@ My career thus far has spanned investment research and management pertaining to 
 
 My ideal company shares my goal of moving the world forward and creating real, tangible benefits for society. I am currently entwined within the intensive 16 week software development course at Makers Academy. I am eager to use my driven nature, analytical mind, and rapidly developing tech skills to help them achieve this.
 
-##🤖 <a name="tech-stack">Tech stack </a> 
+## <a name="tech-stack">Tech stack 🤖</a> 
 - JavaScript (React, Node.js, Express, MongoDB, jQuery, Jest, Jasmine)
 - Ruby (Rails, Sinatra, RSpec, Capybara) 
 - SQL (PostgreSQL, TablePlus)
@@ -23,7 +23,7 @@ My ideal company shares my goal of moving the world forward and creating real, t
 - Heroku, Netlify
 - Git, GitHub (including Pages and Actions), GitLab, Firebase
 
-##👨🏾‍💻  <a name="projects">What I've been working on (Projects) </a>
+## <a name="projects">What I've been working on (Projects) 👨🏾‍💻 </a>
 
 Now:
 
@@ -33,7 +33,7 @@ Now:
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 
-🚀 In future:
+In future:
 
 | Project (Repo)   | Description | Live link | Technologies |
 |---        |---          |---   |---           |
@@ -43,7 +43,7 @@ Now:
 
 For more, please see my [GitHub repo list](https://github.com/nikkivarad?tab=repositories).
 
-##🤹 <a name="skills">What I bring to the table (Skills) </a>
+## <a name="skills">What I bring to the table (Skills) 🤹 </a>
 
 #### Excellent communicator, presenter, and mentor ####
 - Trait1
@@ -66,7 +66,7 @@ For more, please see my [GitHub repo list](https://github.com/nikkivarad?tab=rep
 - Trait3
 
 
-##📖 <a name="education">Where I've been learning (Education) </a>
+## <a name="education">Where I've been learning (Education) 📖</a>
 
 
 #### [Makers Academy](https://makers.tech/) (October 2022 to February 2023)
@@ -84,7 +84,7 @@ Full-time software development course focusing on:
 #### [St. Olave's Grammar School](https://www.saintolaves.net/) (2004 to 2011)
 - 4 A-levels: 2A*s, 2As (Mathematics, Further Mathematics, Economics and Biology) +the EPQ
 
-##💼 <a name="experience">Where I've been contributing (Experience) </a>
+## <a name="experience">Where I've been contributing (Experience) 💼 </a>
 
 **[LifeArc](https://www.lifearc.org/)** (October 2020 to June 2022)    
 *Investment Manager*  
@@ -100,7 +100,7 @@ Full-time software development course focusing on:
 - 💻 **Getting involved in the tech scene**: Writing [tech blogs](https://medium.com/@nikkivarad) and attending events in a variety of tech groups and meetups, eg. [FreeCodeCamp](https://www.freecodecamp.org/), [Code Untapped](https://codeuntapped.com/), [Coders UK](https://www.meetup.com/CodersUK/), [LRUG](http://lrug.org/), [Ruby Hacknight](https://www.meetup.com/ruby-hacknight-london/) 
 - 🎹 **Music:** Self-taught: Piano, Guitar
 - 📚 **Reading:** Just finished [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO), and [The Sandman: Preludes & Nocturnes](https://www.amazon.co.uk/Sandman-Preludes-Nocturnes-Vol/dp/1852863269). 10/10 would recommend both.
-- 🎾 **Tennis:** Previously played in the North Kent men's league at Beckenham Tennis Club
-- 🏏 **Cricket:** Member of the team at Stoke Newington CC
+- 🏊 **Tennis:** Previously played in the North Kent men's league at Beckenham Tennis Club
+- 🏊 **Cricket:** Member of the team at Stoke Newington CC
 - ✈️ **Travelling & languages:** English (fluent); 
-- ♟️ **Chess:** Magnus Carlsen enthusiast [chess.com link?]
+- ✏️ **Chess:** Magnus Carlsen enthusiast [chess.com link?]
